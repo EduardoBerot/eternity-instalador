@@ -17,7 +17,7 @@ O instalador coloca o Fabric, o mod Eternity (painel do clã + Eternity v3 Textu
 O Windows pode mostrar "O Windows protegeu o computador": clique em **Mais informações** → **Executar assim mesmo**.
 O aviso aparece porque o instalador não tem assinatura digital paga.
 
-Passo a passo completo: https://eternity-armageddon.vercel.app/#mod
+Passo a passo completo: https://eternity-armageddon.vercel.app/#meu-painel&tela=mod (só para membros logados)
 
 ## Instalação manual
 
