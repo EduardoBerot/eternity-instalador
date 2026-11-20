@@ -1,6 +1,6 @@
 # Instalador Eternity
 
-Instalador do mod do clã **Eternity** (rede Armageddon) para Minecraft 26.3.
+Instalador do mod do clã **Eternity** (rede Armageddon) para Minecraft. A versão do jogo você escolhe no instalador.
 
 ## Baixar
 
@@ -10,9 +10,9 @@ O instalador coloca o Fabric, o mod Eternity (painel do clã + Eternity v3 Textu
 (Sodium, Lithium, FerriteCore, EntityCulling, MoreCulling, Krypton e C2ME) no seu launcher:
 
 - Launcher oficial: perfil **Eternity**
-- SKLauncher: versão **fabric-loader 26.3**
+- SKLauncher: versão **fabric-loader** criada pelo instalador
 - Prism Launcher: instância **Eternity**
-- Dawn: perfis Fabric 26.3
+- Dawn: perfis Fabric da versão escolhida
 
 O Windows pode mostrar "O Windows protegeu o computador": clique em **Mais informações** → **Executar assim mesmo**.
 O aviso aparece porque o instalador não tem assinatura digital paga.
@@ -21,7 +21,8 @@ Passo a passo completo: https://eternity-armageddon.vercel.app/#meu-painel&tela=
 
 ## Instalação manual
 
-Cada [release](https://github.com/EduardoBerot/eternity-instalador/releases) traz também o jar do mod e o
-modpack `Eternity.mrpack` (Prism / Modrinth App). Os mods de desempenho são baixados do Modrinth.
+Cada [release](https://github.com/EduardoBerot/eternity-instalador/releases) traz também um jar do mod e um
+modpack `.mrpack` (Prism / Modrinth App) para cada versão do Minecraft; a versão vem no nome do arquivo.
+Os mods de desempenho são baixados do Modrinth.
 
 Este repositório só guarda os arquivos de download.
